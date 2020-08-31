@@ -4,8 +4,8 @@
 ***Es una fuente de información que da certeza a los turistas, nacionales e internacionales, sobre la categoría que ostentan los establecimientos de hospedaje en el país.
 El Sistema de Clasificación Hotelera es una herramienta metodológica sustentada a través de un mecanismo de autoevaluación regulado por la Secretaría de Turismo,
 que permitirá a los establecimientos de hospedaje conocer la situación de sus instalaciones y servicios ofrecidos, 
-así como identificar áreas de oportunidad, hecho mediante el cual será reconocido a través de una categoría representada por estrellas.
-Sistema de Clasificación de Hotelería***
+así como identificar áreas de oportunidad, hecho mediante el cual será reconocido a través de una categoría representada por estrellas.***
+[Sistema de Clasificación de Hotelería](http://sch.sectur.gob.mx:8080/SCHWEB/#registro)
 ***
 
 ## ¿En dónde y cuándo se realizó el proyecto?
